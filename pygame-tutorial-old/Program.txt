@@ -1,0 +1,32 @@
+Kare Yakalama
+
+- Yukarıdan Düşen kareleri Yakalar.
+- Yakalanan kareler puanlar ekler.
+- Yakalanamayan Kareler Puan Düşürür.
+- Ard arda 10 Puan Kaybedersek oyun sonlanır.
+- Game Start Menüsü ve Butonlar
+- Game Over Menüsü ve Replay
+- Ekrana Skor Yazdırma
+- Belirli puanlarda kare hızı artmalı ?!?
+- Yakaladığında Ses Çıkartma.
+
+
+FlapyBird
+
+- Maskeleme
+- Yer Çekimi
+
+
+Şövalye Osman
+
+- Karakter
+- Animasyon
+- Level Harita Sistemi
+- Dosya Hiyerarşisi
+- Pep8
+
+- Harita yaratmak
+- Yer Çekimi
+- Düşmanlar
+- Menü
+- Inventory
